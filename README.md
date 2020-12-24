@@ -1,0 +1,2 @@
+# LemparDadu.js
+LemparDadu
